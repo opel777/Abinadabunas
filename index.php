@@ -35,9 +35,10 @@
                <a href="#home">Home</a>
                <a href="#about">Nosotros</a>
                <a href="#services">Servicios</a>
+               <a href="#trabajos">Trabajos</a>
                <a href="#reviews">Opiniones</a>
                <a href="#contact">Contacto</a>
-               <a href="/cursos.php">Cursos</a>
+               
             </nav>
 
             <a href="http://mobooker.co/abinadab-unas" class="link-btn">Concertar Cita</a>
@@ -159,7 +160,7 @@
 
    <!-- process section starts  --> 
 
-   <section class="process">
+   <section class="process" id="trabajos">
       <h1 class="heading">Mis Trabajos</h1>
         <div class="box-container container">
              <div class="box">
